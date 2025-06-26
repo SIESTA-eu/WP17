@@ -23,11 +23,10 @@ File format: CSV
 **Availability (2,444 incidents):**
 1. Denial of Service: 1,568
 2. Unintended Interruption: 148
-3. Misconfiguration: 147
-4. Sabotage: 159
-5. Distributed Denial of Service: 147
-6. Outage: 145
-7. other: 130
+3. Misconfiguration: 157
+4. Sabotage: 189
+5. Distributed Denial of Service: 187
+6. Outage: 185
 
 **Abusive Content (827 incidents):**
 1. Exploitation/Sexual Harrassment/Violent Content: 242
@@ -35,16 +34,14 @@ File format: CSV
 4. Spam: 171
 
 **Information Gathering (613 incidents):**
-1. Social Engineering: 188
-2. Sniffing: 155
-3. Scanning: 148
-4. Other: 145
+1. Social Engineering: 233
+2. Sniffing: 205
+3. Scanning: 198
 
 **Information Content Security (1,170 incidents):**
-1. Unauthorised Access to Information: 364
-3. Unauthorised Modification of Information: 591
+1. Unauthorised Access to Information: 403
+3. Unauthorised Modification of Information: 691
 4. Data Loss: 66
-2. Other: 149
 
 **Malicious Code (752 incidents):**
 1. Infected System: 429
@@ -62,15 +59,14 @@ File format: CSV
 3. Burglary: 145 
 
 **Intrusion Attempts (298 incidents):**
-1. Login Attempts: 149 
-2. Other: 149 
+1. Login Attempts: 298
 
 **Vulnerable (490 incidents):**
 1. Weak Cryptography: 217 
 2. Vulnerable System: 273 
 
 **Other (150 incidents):**
-1. APT: 150 
+1. Other: 150 
 
 ### TO DO:
 We will completely annotate all the personally identifiable information (PII) in the samples</div> 
