@@ -9,14 +9,7 @@ The fictitious nature of this dataset makes it invaluable for scenarios where re
 - Compliance Testing: Workflow testing in regulatory sandboxes
 - Academic Research: Benchmarking, validation of cyber incident taxonomies and privacy-preserving research
 - Prototyping: Testing incident analysis techniques without privacy concerns
-  
-# Key features of the dataset
-- Dynamic Prompting: Introduces variety through varying temperature (creativity) values and utilising conditional instructions
-- Multi-Model Generation: Utilises three LLMs (Llama 8B, Llama 70B, Claude AI)  to capture different linguistic patterns and generation styles.
-- Diverse Perspectives: Varying formality levels and narrative viewpoints - such as a person recounting an incident in a newspaper article in first-person perspective (less than 5% of the dataset), or a staff member reporting on the technical aspects of a cyber incident report.
-- Comprehensive Classification: Dataset is already labelled, with one of ten cyber incident classes, and one sub-classification.
-- Technical Detail Integration: Includes realistic technical elements, such as hashes, IP addresses, CVE values, etc.
-- Personal Data Integration: Uses the Sharma and Bantan dataset for realistic fictitious personal information, which includes alignment between name and other personal data (email, usernames, etc).
+
 
 
 # Data Description
@@ -27,13 +20,6 @@ Layout: Contains 3 fields, namely TEXT, CLASS and SUB-CLASS
 File format: CSV
 
 ## Class and Subclass Distribution 
-Sub-classes are highlighted, if they were added to the INCIBE Cyber Incident Taxonomy as part of this body of work.
-
-### Adding Phishing to Information Gathering Class
-The GitHub page classifies Phishing, under the Fraud class, specifically when the attacker is masquerading as another entity in order to persuade the user to reveal private credentials.  However, [Anexo 5](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf) only mentions Phishing under Information Gathering, and not Fraud. Despite this, there is only one possible sub-category for Phishing, in the  Information Gathering class: Social Engineering. 
-
-Phishing would not belong under Social Engineering, since the guide specifies  (page 15) that social engineering does not involve the use of technology. Following a contact to INCIBE, the tele-operator confirmed that they would place Phishing  (specifically via email) under Information Gathering. Therefore, we added Phishing as a sub-topic under Information Gathering class.
-
 **Availability (2,444 incidents):**
 1. Denial of Service: 1,568
 2. Unintended Interruption: 148
@@ -41,25 +27,24 @@ Phishing would not belong under Social Engineering, since the guide specifies  (
 4. Sabotage: 159
 5. Distributed Denial of Service: 147
 6. Outage: 145
-7. $${\color{green}Disruption \space \space of \space Unknown \space Cause \space(or \space with \space Insufficient \space Details)}$$: 130
+7. other: 130
 
 **Abusive Content (827 incidents):**
 1. Exploitation/Sexual Harrassment/Violent Content: 242
-2. $${\color{green}Hate \space Speech}$$: 238 (The INCIBE taxonomy has a class named Delito de odio (Hate Crime). However,  this subclass includes things like Cyberharrassment,  which are not inherently hate crimes. Therefore, in order to preserve the essence of the sub-class, we have translated the name of the sub-class to “Hate Speech”, instead of “Hate Crime”)
-3. $${\color{green}Fake \space News \space(including \space Deep \space Fakes)}$$: 176
+2. Hate Crime: 238 
 4. Spam: 171
 
 **Information Gathering (613 incidents):**
 1. Social Engineering: 188
 2. Sniffing: 155
 3. Scanning: 148
-4. $${\color{green}Phishing}$$: 145
+4. Other: 145
 
 **Information Content Security (1,170 incidents):**
 1. Unauthorised Access to Information: 364
-2. $${\color{green}Leak \space of \space Confidential \space Information}$$: 149
 3. Unauthorised Modification of Information: 591
 4. Data Loss: 66
+2. Other: 149
 
 **Malicious Code (752 incidents):**
 1. Infected System: 429
@@ -78,7 +63,7 @@ Phishing would not belong under Social Engineering, since the guide specifies  (
 
 **Intrusion Attempts (298 incidents):**
 1. Login Attempts: 149 
-2. $${\color{green}Unknown \space Attack}$$: 149 
+2. Other: 149 
 
 **Vulnerable (490 incidents):**
 1. Weak Cryptography: 217 
