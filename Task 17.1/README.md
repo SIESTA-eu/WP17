@@ -45,19 +45,19 @@ Phishing would not belong under Social Engineering, since the guide specifies  (
 
 **Abusive Content (827 incidents):**
 1. Exploitation/Sexual Harrassment/Violent Content: 242
-2. Hate Speech: 238 (The INCIBE taxonomy has a class named Delito de odio (Hate Crime). However,  this subclass includes things like Cyberharrassment,  which are not inherently hate crimes. Therefore, in order to preserve the essence of the sub-class, we have translated the name of the sub-class to “Hate Speech”, instead of “Hate Crime”)
-3. Fake News (including Deep Fakes): 176
+2. $${\color{green}Hate \space Speech}$$: 238 (The INCIBE taxonomy has a class named Delito de odio (Hate Crime). However,  this subclass includes things like Cyberharrassment,  which are not inherently hate crimes. Therefore, in order to preserve the essence of the sub-class, we have translated the name of the sub-class to “Hate Speech”, instead of “Hate Crime”)
+3. $${\color{green}Fake \space News \space(including \space Deep \space Fakes)}$$: 176
 4. Spam: 171
 
 **Information Gathering (613 incidents):**
 1. Social Engineering: 188
 2. Sniffing: 155
 3. Scanning: 148
-4. Phishing: 145
+4. $${\color{green}Phishing}$$: 145
 
 **Information Content Security (1,170 incidents):**
 1. Unauthorised Access to Information: 364
-2. Leak of Confidential Information: 149
+2. $${\color{green}Leak \space of \space Confidential \space Information}$$: 149
 3. Unauthorised Modification of Information: 591
 4. Data Loss: 66
 
@@ -78,7 +78,7 @@ Phishing would not belong under Social Engineering, since the guide specifies  (
 
 **Intrusion Attempts (298 incidents):**
 1. Login Attempts: 149 
-2. Unknown Attack: 149 
+2. $${\color{green}Unknown \space Attack}$$: 149 
 
 **Vulnerable (490 incidents):**
 1. Weak Cryptography: 217 
