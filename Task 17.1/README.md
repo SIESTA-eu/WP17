@@ -1,5 +1,6 @@
 <div align="justify">This subfolder contains the synthetic dataset in the domain of cyberincidents report generated for the purpose of text anonymization experiments and cyberincidents report classification. The instances have been pre-classified according to the class of incidents and a finer subclasses based on specifics.
 
+
 The synthetic dataset contains fictitious cyber incident prose-based reports, that have been enriched with fictitious personal data. These cyber incidents are labelled using an enhanced version of the INCIBE cyber incident taxonomy. The cyber incidents are in a primarily prose format and mimic incident reports, such as from newspapers, as well as first-person reports, like what may be reported in a cyber incident portal.
 The development of effective cybersecurity machine learning models requires large volumes of realistic incident data. However, real cyber incident data contains sensitive information that cannot be shared for research purposes; creating a significant data scarcity problem in cybersecurity AI research. Therefore, this experimentation presents a dataset which contains realistic details across diverse cyber incident classes, while maintaining coherence. This research also includes varying tones (formal and informal) and perspectives (first person to third person), since cyber incident reports may come from a variety of sources. 
 The fictitious nature of this dataset makes it invaluable for scenarios where real incident data would pose privacy, legal, or security risks:</div>
@@ -28,10 +29,10 @@ File format: CSV
 ## Class and Subclass Distribution 
 Sub-classes are highlighted, if they were added to the INCIBE Cyber Incident Taxonomy as part of this body of work.
 
-### Adding Phishing to Information Gathering
-The GitHub page classifies Phishing, under the Fraud class, specifically when the attacker is masquerading as another entity in order to persuade the user to reveal private credentials.  However, [Anexo 5](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf) (the examples) only mentions Phishing under Information Gathering, and not Fraud. Despite this, there is only one possible sub-category for Phishing, in the  Information Gathering class: Social Engineering. 
+### Adding Phishing to Information Gathering Class
+<div align="justify">The GitHub page classifies Phishing, under the Fraud class, specifically when the attacker is masquerading as another entity in order to persuade the user to reveal private credentials.  However, [Anexo 5](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf) (the examples) only mentions Phishing under Information Gathering, and not Fraud. Despite this, there is only one possible sub-category for Phishing, in the  Information Gathering class: Social Engineering. 
 
-Phishing would not belong under Social Engineering, since the guide specifies  (page 15) that social engineering does not involve the use of technology. Following a call to INCIBE on February 24, the tele-operator confirmed that they would place Phishing  (specifically via email) under Information Gathering. Therefore, I propose to add Phishing as a sub-topic there. 
+Phishing would not belong under Social Engineering, since the guide specifies  (page 15) that social engineering does not involve the use of technology. Following a call to INCIBE on February 24, the tele-operator confirmed that they would place Phishing  (specifically via email) under Information Gathering. Therefore, we added Phishing as a sub-topic under Information Gathering class.</div> 
 
 **Availability (2,444 incidents):**
 1. Denial of Service: 1,568
