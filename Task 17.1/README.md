@@ -34,8 +34,8 @@ The GitHub page classifies Phishing, under the Fraud class, specifically when th
 Phishing would not belong under Social Engineering, since the guide specifies  (page 15) that social engineering does not involve the use of technology. Following a call to INCIBE on February 24, the tele-operator confirmed that they would place Phishing  (specifically via email) under Information Gathering. Therefore, I propose to add Phishing as a sub-topic there. 
 
 **Availability (2,444 incidents):**
-    1. Denial of Service: 1,568 
-    2. Unintended Interruption: 148
+1. Denial of Service: 1,568
+2. Unintended Interruption: 148
     3. Misconfiguration: 147
     4. Sabotage: 159
     5. Distributed Denial of Service: 147 
