@@ -41,7 +41,7 @@ Phishing would not belong under Social Engineering, since the guide specifies  (
 4. Sabotage: 159
 5. Distributed Denial of Service: 147
 6. Outage: 145
-7. $${\color{yellow}Disruption of Unknown Cause (or with Insufficient Details)}$$: 130
+7. $${\color{green}Disruption \space \space of \space Unknown \space Cause \space(or \space with \space Insufficient \space Details)}$$: 130
 
 **Abusive Content (827 incidents):**
 1. Exploitation/Sexual Harrassment/Violent Content: 242
