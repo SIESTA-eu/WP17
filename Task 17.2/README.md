@@ -1,6 +1,6 @@
 <div align="justify">This subfolder contains the codes for NER-based text anonymization experiments. To run the codes, the dependencies need to be installed using the "install.sh" bash file. Fourteen pretrained models have been used. They include:
-- dslim/bert-base-NER
-- dslim/bert-large-NER
+- {dslim/bert-base-NER}
+- {dslim/bert-large-NER}
 - dbmdz/bert-base-cased-finetuned-conll03-english
 - dbmdz/bert-large-cased-finetuned-conll03-english
 - elastic/distilbert-base-uncased-finetuned-conll03-english
