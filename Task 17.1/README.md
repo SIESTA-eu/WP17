@@ -51,7 +51,7 @@ File format: CSV
   
 
 - Word Count:
-- 
+  
   Count: 10,000
   
   Mean: 196.48
