@@ -12,6 +12,7 @@ The fictitious nature of this dataset makes it invaluable for the following scen
   small>
 ### DATA DESCRIPTION
 **1. GENERAL STATISTICS**
+
 Size: 10000 records
 
 Average word count per incident: 250 words
@@ -20,7 +21,8 @@ Layout: Contains 3 fields, namely TEXT, CLASS and SUB-CLASS
 
 File format: CSV
 
-## 2. TEXT STATISTICS
+**2. TEXT STATISTICS**
+
 - Text Length (characters):
   
   Count: 10,000
@@ -106,7 +108,7 @@ File format: CSV
   
   Kurtosis: 4.5982
 
-## 3. TOPIC ANALYSIS
+**3. TOPIC ANALYSIS**
 
 Unique topics: 10
 
@@ -126,7 +128,7 @@ Topics:
    9. Obtencion Informacion: 23 (0.23%)
   10. Intento Intrusion: 23 (0.23%)
 
-## 4. SUBTOPIC ANALYSIS
+**4. SUBTOPIC ANALYSIS**
 Unique subtopics: 27
 Most frequent: Modificacion No Autorizada (3,356 times)
 Least frequent: Servicios Acceso No Deseado (12 times)
@@ -148,7 +150,7 @@ Subtopics:
   14. Configuracion Malware: 57 (0.57%)
   15. Delito Odio: 57 (0.57%)
 
-## 5. TOPIC-SUBTOPIC PAIRS ANALYSIS
+**5. TOPIC-SUBTOPIC PAIRS ANALYSIS**
 Unique topic-subtopic pairs: 33
 Most frequent pair: Compromiso Informacion-Modificacion No Autorizada (3,333 times)
 Average occurrences per pair: 303.03
@@ -185,7 +187,7 @@ Classification System Overview:
   Topic with most subtopics: Contenido Dañino (7 subtopics)
 
 
-### TO DO:
+**TO DO:**
 We will completely annotate all the personally identifiable information (PII) in the samples</div> 
 </small>
 
