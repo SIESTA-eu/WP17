@@ -10,8 +10,8 @@ The fictitious nature of this dataset makes it invaluable for the following scen
 - Academic Research: Benchmarking, validation of cyber incident taxonomies and privacy-preserving research
 - Prototyping: Testing incident analysis techniques without privacy concerns
   small>
-# DATA DESCRIPTION
-## 1. GENERAL STATISTICS
+### DATA DESCRIPTION
+**1. GENERAL STATISTICS**
 Size: 10000 records
 
 Average word count per incident: 250 words
