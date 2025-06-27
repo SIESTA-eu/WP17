@@ -187,3 +187,6 @@ Classification System Overview:
 
 ### TO DO:
 We will completely annotate all the personally identifiable information (PII) in the samples</div> 
+
+### REFERENCE
+Juan J. Delgado, Eduardo Fidaldo, Enrique Alegre, Andrés Carofilis-Vasco and Alicia Martínez-Mendoza. 2024. “CECILIA: Enhancing CSIRT Effectiveness with Transformer-Based Cyber Incident Classification”. In Proceedings of the First International Conference on Natural Language Processing and Artificial Intelligence for Cyber Security, pages 186–195, Lancaster, UK. International Conference on Natural Language Processing and Artificial Intelligence for Cyber Security. https://aclanthology.org/2024.nlpaics-1.21/.
