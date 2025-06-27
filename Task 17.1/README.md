@@ -21,9 +21,10 @@ Layout: Contains 3 fields, namely TEXT, CLASS and SUB-CLASS
 File format: CSV
 
 ## 2. TEXT STATISTICS
-
 - Text Length (characters):
+  
   Count: 10,000
+  
   Mean: 1428.22
   Median: 1429.00
   Std Dev: 144.52
