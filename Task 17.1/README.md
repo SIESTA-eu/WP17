@@ -20,98 +20,55 @@ The fictitious nature of this dataset makes it invaluable for the following scen
 **2. TEXT STATISTICS**
 
 - Text Length (characters):
-  
     - Count: 10,000
-  
     - Mean: 1428.22
+    - Median: 1429.00
+    - Std Dev: 144.52
+    - Min: 180
+    - Max: 1889
+    - 25th percentile: 1335.00
+    - 75th percentile: 1523.00
+    - 90th percentile: 1612.00
+    - 95th percentile: 1665.00
+    - 99th percentile: 1748.01
+    - Skewness: -0.3147
+    - Kurtosis: 1.6793
   
-    Median: 1429.00
-  
-    Std Dev: 144.52
-  
-    Min: 180
-  
-    Max: 1889
-  
-  25th percentile: 1335.00
-  
-  75th percentile: 1523.00
-  
-  90th percentile: 1612.00
-  
-  95th percentile: 1665.00
-  
-  99th percentile: 1748.01
-  
-  Skewness: -0.3147
-  
-  Kurtosis: 1.6793
-  
-
 - Word Count:
-  
-  Count: 10,000
-  
-  Mean: 196.48
-  
-  Median: 197.00
-  
-  Std Dev: 20.23
-  
-  Min: 26
-  
-  Max: 259
-  
-  25th percentile: 184.00
-  
-  75th percentile: 210.00
-  
-  90th percentile: 222.00
-  
-  95th percentile: 230.00
-  
-  99th percentile: 241.00
-  
-  Skewness: -0.3532
-  
-  Kurtosis: 1.6217
-
+  - Count: 10,000
+  - Mean: 196.48
+  - Median: 197.00
+  - Std Dev: 20.23
+  - Min: 26
+  - Max: 259
+  - 25th percentile: 184.00
+  - 75th percentile: 210.00
+  - 90th percentile: 222.00
+  - 95th percentile: 230.00
+  - 99th percentile: 241.00
+  - Skewness: -0.3532
+  - Kurtosis: 1.6217
+    
 - Sentence Count:
-- 
-  Count: 10,000
-  
-  Mean: 10.30
-  
-  Median: 10.00
-  
-  Std Dev: 2.42
-  
-  Min: 1
-  
-  Max: 31
-  
-  25th percentile: 9.00
-  
-  75th percentile: 11.00
-  
-  90th percentile: 13.00
-  
-  95th percentile: 15.00
-  
-  99th percentile: 18.00
-  
-  Skewness: 1.3854
-  
-  Kurtosis: 4.5982
+  - Count: 10,000
+  - Mean: 10.30
+  - Median: 10.00
+  - Std Dev: 2.42
+  - Min: 1
+  - Max: 31
+  - 25th percentile: 9.00
+  - 75th percentile: 11.00
+  - 90th percentile: 13.00
+  - 95th percentile: 15.00
+  - 99th percentile: 18.00
+  - Skewness: 1.3854
+  - Kurtosis: 4.5982
 
 **3. TOPIC ANALYSIS**
-
-Unique topics: 10
-
-Most frequent: Compromiso Informacion (5,028 times)
-
-Least frequent: Intento Intrusion (23 times)
-
+- Unique topics: 10
+- Most frequent: Compromiso Informacion (5,028 times)
+- Least frequent: Intento Intrusion (23 times)
+  
 Topics:
    1. Compromiso Informacion: 5,028 (50.28%)
    2. Disponibilidad: 1,432 (14.32%)
@@ -125,9 +82,9 @@ Topics:
   10. Intento Intrusion: 23 (0.23%)
 
 **4. SUBTOPIC ANALYSIS**
-Unique subtopics: 27
-Most frequent: Modificacion No Autorizada (3,356 times)
-Least frequent: Servicios Acceso No Deseado (12 times)
+- Unique subtopics: 27
+- Most frequent: Modificacion No Autorizada (3,356 times)
+- Least frequent: Servicios Acceso No Deseado (12 times)
 
 Subtopics:
    1. Modificacion No Autorizada: 3,356 (33.56%)
@@ -147,17 +104,12 @@ Subtopics:
   15. Delito Odio: 57 (0.57%)
 
 **5. TOPIC-SUBTOPIC PAIRS ANALYSIS**
-
-Unique topic-subtopic pairs: 33
-
-Most frequent pair: Compromiso Informacion-Modificacion No Autorizada (3,333 times)
-
-Average occurrences per pair: 303.03
-
-Median occurrences per pair: 34.00
-
-Shannon entropy (pair diversity): 3.0741
-
+- Unique topic-subtopic pairs: 33
+- Most frequent pair: Compromiso Informacion-Modificacion No Autorizada (3,333 times)
+- Average occurrences per pair: 303.03
+- Median occurrences per pair: 34.00
+- Shannon entropy (pair diversity): 3.0741
+  
 Top 20 Topic-Subtopic Pairs:
    1. Compromiso Informacion-Modificacion No Autorizada: 3,333 (33.33%)
    2. Compromiso Informacion-Acceso No Autorizado: 1,683 (16.83%)
@@ -181,12 +133,11 @@ Top 20 Topic-Subtopic Pairs:
   20. Contenido Dañino-Modificacion No Autorizada: 23 (0.23%)
 
 Classification System Overview:
-  Topics per dataset: 10
-  Subtopics per dataset: 27
-  Unique pairs: 33
-  Average subtopics per topic: 3.30
-  Topic with most subtopics: Contenido Dañino (7 subtopics)
-
+- Topics per dataset: 10
+- Subtopics per dataset: 27
+- Unique pairs: 33
+- Average subtopics per topic: 3.30
+- Topic with most subtopics: Contenido Dañino (7 subtopics)
 
 **TO DO:**
 We will completely annotate all the personally identifiable information (PII) in the samples</div> 
