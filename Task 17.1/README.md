@@ -19,7 +19,7 @@ File format: CSV
 
 ## 2. TEXT STATISTICS
 
-Text Length (characters):
+- Text Length (characters):
   Count: 10,000
   Mean: 1428.22
   Median: 1429.00
@@ -34,7 +34,7 @@ Text Length (characters):
   Skewness: -0.3147
   Kurtosis: 1.6793
 
-Word Count:
+- Word Count:
   Count: 10,000
   Mean: 196.48
   Median: 197.00
@@ -49,7 +49,7 @@ Word Count:
   Skewness: -0.3532
   Kurtosis: 1.6217
 
-Sentence Count:
+- Sentence Count:
   Count: 10,000
   Mean: 10.30
   Median: 10.00
