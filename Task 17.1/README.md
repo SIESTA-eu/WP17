@@ -18,7 +18,7 @@ Layout: Contains 3 fields, namely TEXT, CLASS and SUB-CLASS
 File format: CSV
 
 ================================================================================
-2. TEXT STATISTICS
+##2. TEXT STATISTICS
 --------------------------------------------------
 
 Text Length (characters):
