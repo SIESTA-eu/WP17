@@ -11,13 +11,13 @@ The fictitious nature of this dataset makes it invaluable for the following scen
 - Prototyping: Testing incident analysis techniques without privacy concerns
 
 # DATA DESCRIPTION
-##1. GENERAL STATISTICS
+## 1. GENERAL STATISTICS
 Size: 10000 records
 Average word count per incident: 250 words
 Layout: Contains 3 fields, namely TEXT, CLASS and SUB-CLASS
 File format: CSV
 
-##2. TEXT STATISTICS
+## 2. TEXT STATISTICS
 
 Text Length (characters):
   Count: 10,000
@@ -64,14 +64,12 @@ Sentence Count:
   Skewness: 1.3854
   Kurtosis: 4.5982
 
-================================================================================
-3. TOPIC ANALYSIS
---------------------------------------------------
+## 3. TOPIC ANALYSIS
 Unique topics: 10
 Most frequent: Compromiso Informacion (5,028 times)
 Least frequent: Intento Intrusion (23 times)
 
-Top 15 Topics:
+Topics:
    1. Compromiso Informacion: 5,028 (50.28%)
    2. Disponibilidad: 1,432 (14.32%)
    3. Intrusion: 1,294 (12.94%)
@@ -83,14 +81,12 @@ Top 15 Topics:
    9. Obtencion Informacion: 23 (0.23%)
   10. Intento Intrusion: 23 (0.23%)
 
-================================================================================
-4. SUBTOPIC ANALYSIS
---------------------------------------------------
+## 4. SUBTOPIC ANALYSIS
 Unique subtopics: 27
 Most frequent: Modificacion No Autorizada (3,356 times)
 Least frequent: Servicios Acceso No Deseado (12 times)
 
-Top 15 Subtopics:
+Subtopics:
    1. Modificacion No Autorizada: 3,356 (33.56%)
    2. Acceso No Autorizado: 1,683 (16.83%)
    3. DDoS: 1,340 (13.40%)
@@ -107,9 +103,7 @@ Top 15 Subtopics:
   14. Configuracion Malware: 57 (0.57%)
   15. Delito Odio: 57 (0.57%)
 
-================================================================================
-5. TOPIC-SUBTOPIC PAIRS ANALYSIS
---------------------------------------------------
+## 5. TOPIC-SUBTOPIC PAIRS ANALYSIS
 Unique topic-subtopic pairs: 33
 Most frequent pair: Compromiso Informacion-Modificacion No Autorizada (3,333 times)
 Average occurrences per pair: 303.03
