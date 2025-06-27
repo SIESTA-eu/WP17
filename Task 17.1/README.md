@@ -25,17 +25,17 @@ File format: CSV
 
 - Text Length (characters):
   
-  Count: 10,000
+    Count: 10,000
   
-  Mean: 1428.22
+    Mean: 1428.22
   
-  Median: 1429.00
+    Median: 1429.00
   
-  Std Dev: 144.52
+    Std Dev: 144.52
   
-  Min: 180
+    Min: 180
   
-  Max: 1889
+    Max: 1889
   
   25th percentile: 1335.00
   
