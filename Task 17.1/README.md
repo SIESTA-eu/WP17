@@ -151,10 +151,15 @@ Subtopics:
   15. Delito Odio: 57 (0.57%)
 
 **5. TOPIC-SUBTOPIC PAIRS ANALYSIS**
+
 Unique topic-subtopic pairs: 33
+
 Most frequent pair: Compromiso Informacion-Modificacion No Autorizada (3,333 times)
+
 Average occurrences per pair: 303.03
+
 Median occurrences per pair: 34.00
+
 Shannon entropy (pair diversity): 3.0741
 
 Top 20 Topic-Subtopic Pairs:
