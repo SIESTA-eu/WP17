@@ -9,7 +9,7 @@ The fictitious nature of this dataset makes it invaluable for the following scen
 - Compliance Testing: Workflow testing in regulatory sandboxes
 - Academic Research: Benchmarking, validation of cyber incident taxonomies and privacy-preserving research
 - Prototyping: Testing incident analysis techniques without privacy concerns
-
+  small>
 # DATA DESCRIPTION
 ## 1. GENERAL STATISTICS
 Size: 10000 records
@@ -187,4 +187,5 @@ Classification System Overview:
 
 ### TO DO:
 We will completely annotate all the personally identifiable information (PII) in the samples</div> 
+</small>
 
