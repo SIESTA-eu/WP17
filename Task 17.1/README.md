@@ -26,51 +26,92 @@ File format: CSV
   Count: 10,000
   
   Mean: 1428.22
+  
   Median: 1429.00
+  
   Std Dev: 144.52
+  
   Min: 180
+  
   Max: 1889
+  
   25th percentile: 1335.00
+  
   75th percentile: 1523.00
+  
   90th percentile: 1612.00
+  
   95th percentile: 1665.00
+  
   99th percentile: 1748.01
+  
   Skewness: -0.3147
+  
   Kurtosis: 1.6793
+  
 
 - Word Count:
+- 
   Count: 10,000
+  
   Mean: 196.48
+  
   Median: 197.00
+  
   Std Dev: 20.23
+  
   Min: 26
+  
   Max: 259
+  
   25th percentile: 184.00
+  
   75th percentile: 210.00
+  
   90th percentile: 222.00
+  
   95th percentile: 230.00
+  
   99th percentile: 241.00
+  
   Skewness: -0.3532
+  
   Kurtosis: 1.6217
 
 - Sentence Count:
+- 
   Count: 10,000
+  
   Mean: 10.30
+  
   Median: 10.00
+  
   Std Dev: 2.42
+  
   Min: 1
+  
   Max: 31
+  
   25th percentile: 9.00
+  
   75th percentile: 11.00
+  
   90th percentile: 13.00
+  
   95th percentile: 15.00
+  
   99th percentile: 18.00
+  
   Skewness: 1.3854
+  
   Kurtosis: 4.5982
 
 ## 3. TOPIC ANALYSIS
+
 Unique topics: 10
+
 Most frequent: Compromiso Informacion (5,028 times)
+
 Least frequent: Intento Intrusion (23 times)
 
 Topics:
