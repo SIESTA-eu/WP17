@@ -12,13 +12,9 @@ The fictitious nature of this dataset makes it invaluable for the following scen
   small>
 ### DATA DESCRIPTION
 **1. GENERAL STATISTICS**
-
 - Size: 10000 records
-
 - Average word count per incident: 250 words
-
 - Layout: Contains 3 fields, namely TEXT, CLASS and SUB-CLASS
-
 - File format: CSV
 
 **2. TEXT STATISTICS**
