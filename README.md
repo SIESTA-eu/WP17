@@ -1,6 +1,2 @@
-This repository presents and describe the work done in the context of the work package 17 of the SIESTA project.
-
-<div align="justify">Task 17.1 contains the synthetic dataset generated for text anonymization experiments together with detailed description including the methodology and the metadata. </div>
-
-
-<div align="justify">Task 17.2 contains the codes used NER-based text anonymization experiments. In each case, a detailed description of the tasks and the outputs are documented within each subfolder.</div>
+<div align="justify">This repository presents and describe the work done in the context of the work package 17 of the SIESTA project.
+Task 17.1 contains the synthetic dataset generated for text anonymization experiments together with detailed description including the methodology and the metadata. Task 17.2 contains the codes used NER-based text anonymization experiments. In each case, a detailed description of the tasks and the outputs are documented within each subfolder.</div>
