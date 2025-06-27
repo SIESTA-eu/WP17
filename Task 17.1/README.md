@@ -25,9 +25,9 @@ File format: CSV
 
 - Text Length (characters):
   
-    Count: 10,000
+    - Count: 10,000
   
-    Mean: 1428.22
+    - Mean: 1428.22
   
     Median: 1429.00
   
