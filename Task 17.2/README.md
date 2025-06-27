@@ -15,4 +15,4 @@
 - spacy/en_core_web_lg
 - spacy/en_core_web_trf
     
-The individual pretrained models need to changed as desired. The entity categories in the pretrained models and the experimental dataset (CECILIA) have been unified. For information about and access to CECILIA dataset used, kindly consult this [page](https://gvis.unileon.es/datasets-cecilia-10c-900-ner/)</div>
+The individual pretrained models need to be changed in line 144 as desired and corresponding output directory in line 343. The entity categories in the pretrained models and the experimental dataset (CECILIA) have been unified. For information about and access to CECILIA dataset used, kindly consult this [page](https://gvis.unileon.es/datasets-cecilia-10c-900-ner/)</div>
